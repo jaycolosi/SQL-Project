@@ -26,7 +26,7 @@ This query uses the provided tables “match_info” and “player_info” joine
 4. The fractional retention rate
 
 
-### **QUERY 2:** *Average Spend Table*
+### **QUERY 2:** *Total Spend Table*
 
 This query returns the average spend of players by age, retention status (spend by retained vs not retained players), and locations below. It is accomplished by joining an additional table into the final retention table and then utilizing a subquery from that table which is then joined to the last item_info table. This wealth of information will allow further analysis and visualization in Google Sheets. 
 
@@ -43,7 +43,7 @@ When investigating the data output in the spreadsheet we can see that the retent
 
 ---
 
-### *Q2: Analysis of Average Total Player Spend: By Age and By Country*
+### *Q2: Analysis of Total Player Spends: By Age and By Country*
 ---
 For additional analysis, we decided to investigate the average spending habits of retained players vs not retained players by both age and country. In the graphs created it is displayed that the average total spent on the game is higher by non-retained players of most age groups which the exception of the ages of 31 and 32.
 
