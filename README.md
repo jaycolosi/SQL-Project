@@ -30,6 +30,8 @@ This query uses the provided tables “match_info” and “player_info” joine
 
 This query returns the average spend of players by age, retention status (spend by retained vs not retained players), and locations below. It is accomplished by joining an additional table into the final retention table and then utilizing a subquery from that table which is then joined to the last item_info table. This wealth of information will allow further analysis and visualization in Google Sheets. 
 
+To see the full queries please refence the queries.txt file. 
+
 
 # **Analysis of 30 Day Retention: 1 Year Life-Cycle**
 
