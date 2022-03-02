@@ -49,7 +49,7 @@ For additional analysis, we decided to investigate the average spending habits o
 
 ![Visualization 2](./visualizations/CHART1_Age.png)
 
-When looking at the average total spending of non-retained players compared to retained players by country, we can again see that non-retained players spend more on average than retained players with Africa having the highest average spend as well as the largest difference between the average spend of retained and non-retained players. Comparatively, North America has the smallest difference between the average spending of retained and non-retained players. 
+When looking at the total spending of non-retained players compared to retained players by country, we can again see that non-retained players spend more on than retained players with Africa having the highest total spend as well as the largest difference between the total spend of retained and non-retained players. Comparatively, North America has the smallest difference between the total spending of retained and non-retained players. 
 
 ![Visualization 3](./visualizations/CHART2_location.png)
 
